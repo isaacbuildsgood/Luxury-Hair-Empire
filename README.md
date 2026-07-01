@@ -12,7 +12,7 @@ Coming Soon
 
 ## Screenshot
 
-![Luxury Hair Empire Homepage](assets/images/homepage2.jpeg)
+![Luxury Hair Empire Homepage](asset/images/homepage2.jpeg)
 
 ## Features
 
